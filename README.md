@@ -52,7 +52,7 @@ numpy>=1.19.2
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/realtime-emotion-recognition.git
+gh repo clone JakWdo/Real-Time-Emotion-Recognition
 ```
 
 2. Install dependencies:
