@@ -48,25 +48,7 @@ mediapipe>=0.8.9
 numpy>=1.19.2
 ```
 
-## Installation
-
-1. Clone the repository:
-```bash
-gh repo clone JakWdo/Real-Time-Emotion-Recognition
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
-
-Run the main script:
-```bash
-python main.py
-```
-
 Controls:
 - Press 'q' to exit the application
 - The system will automatically begin detecting faces and emotions when launched
