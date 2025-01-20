@@ -106,12 +106,3 @@ The system achieves:
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Author
-
-Jakub Wdowicz  
-Email: kubakbk@op.pl
